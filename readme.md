@@ -6,6 +6,8 @@ Write a program that takes a list of words (for example /usr/share/dict/words on
 
 
 ## Steps to execute
-Execute mainApp.java in src/main/java to start the program
+- make sure src/main/resources is added to source folder in eclipse
+- make sure there are no white spaces in folder/directory names 
+- Execute mainApp.java in src/main/java to start the program
 ## Resources needed
 Uses words.txt file in resources folder as Dictionary source
